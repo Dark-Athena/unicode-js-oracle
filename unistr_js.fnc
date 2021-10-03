@@ -3,7 +3,7 @@ create or replace function unistr_js(str varchar2) return varchar2 is
   --作者：DarkAthena
   --Email:darkathena@qq.com
   /*
-Copyright DarkAthena
+Copyright DarkAthena(darkathena@qq.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
